@@ -36,7 +36,7 @@ Run the server:
 python server.py
 ```
 
-In a separate terminal, navigate to the project directory:
+In a separate terminal, navigate to the Client directory:
 
 ```bash
 cd Client
