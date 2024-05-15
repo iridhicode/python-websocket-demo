@@ -24,12 +24,24 @@ Navigate to the project directory:
 ```bash
 cd web-socket-demo
 ```
+
+Navigate to the Server directory:
+
+```bash
+cd Server
+```
 Run the server:
 
 ```bash
 python server.py
 ```
-In a separate terminal, run the client:
+
+In a separate terminal, navigate to the project directory:
+
+```bash
+cd Client
+```
+ Run the client:
 
 ```bash
 python client.py
